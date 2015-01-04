@@ -28,6 +28,7 @@ Ao fim do processo teríamos 3 arquivos (se forem encontradas sequências para e
 2- Contendo inclusive entre 800 e 1750 bases.
 3- Contendo mais de 1750 bases.
 
+Explicação em vídeo https://www.youtube.com/watch?v=W3XjXcc1VDE&feature=youtu.be
 ================================================================================================================
 
 Inglês:
