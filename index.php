@@ -130,7 +130,7 @@
 
 }
 
-        separateFASTA::separete_n_FASTA_Seqs_InsideDir("./dirseq",250 ,380);
+        separateFASTA::separete_n_FASTA_Seqs_InsideDir("./dirseq",250 ,380);//Change to your path, your min and your max seq size
 
         ?>
     </body>
