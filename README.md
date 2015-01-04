@@ -19,8 +19,8 @@ selecionar e agrupá-las entre 2 valores estipulados ou somente testar a sua exi
 
 
 Exemplo: 
-Possuo 20 arquivos FASTA, cada um contendo entre 10 e 200 sequências de DNA. Portanto possuimos entre 200 e 4000 
-sequências no total. Cada uma dessas sequências possui entre 400 e 3000 bases. 
+Possuo 20 arquivos FASTA dentro de um diretório que se chama "dirseq", cada um contendo entre 10 e 200 sequências de
+DNA. Portanto possuimos entre 200 e 4000 sequências no total. Cada uma dessas sequências possui entre 400 e 3000 bases. 
 Gostaria de separar e agrupar todas as sequências que contêm no mínimo 800 bases e no máximo 1750 bases.
 
 Ao fim do processo teríamos 3 arquivos (se forem encontradas sequências para esses grupos):
