@@ -11,7 +11,7 @@
 
          static function separete_n_FASTA_Seqs_InsideDir($path,$min,$max) {
           
-         //Baseado na definição de fasta pelo NCBI http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml
+         //Baseado na definição de fasta pelo NCBI 
          //Como identificar 2 sequencias diferentes se pode não existir o caracter ">" em alguns arquivos FASTA?
          //Suponho que quando não há o identificador ">" trata-se somente de uma seuquencia => perguntar no biostar.org
       
@@ -130,7 +130,7 @@
 
 }
 
-        separateFASTA::separete_n_FASTA_Seqs_InsideDir("./dirseq",250 ,380);//Change to your path, your min and your max seq size
+        separateFASTA::separete_n_FASTA_Seqs_InsideDir("./dirseq",0 ,380);//Change to your path, your min and your max seq size
 
         ?>
     </body>
