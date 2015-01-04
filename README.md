@@ -4,7 +4,7 @@ readFASTA_PHP
 Português:
 Digamos que possuimos "n" arquivos FASTA com "n" sequências exclusivamente de DNA, RNA ou PROTEÍNA, onde dentro 
 de cada arquivo, cada uma dessas sequências possui diferentes ou não quantidades monoméricas, ou seja, sequências de 
-tamanhos diferentes ou não, conhecidos previamente ou não, e a identificação do organismo a que pertence o polómero,
+tamanhos diferentes ou não, conhecidos previamente ou não, e a identificação do organismo a que pertence o polímero,
 segundo o modelo FASTA estabelecido pelo NCBI http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml
 
 O objetivo seria selecionar e agrupar todas essas "n" sequências contidas em cada um dos "n" arquivos, em 3 sub conjuntos 
